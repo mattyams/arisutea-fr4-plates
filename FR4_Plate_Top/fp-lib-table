@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name arisutea)(type KiCad)(uri ${KIPRJMOD}/arisutea.pretty)(options "")(descr ""))
+)
